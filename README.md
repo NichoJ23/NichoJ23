@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- I'm currently still in high school
+- I'm currently learning how to optimize schedules with Integer Linear Programming
+- Pronouns: He/Him
